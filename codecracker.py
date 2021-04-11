@@ -62,7 +62,7 @@ def codeMaker():  #Generating the code. The code has to consist of numbers betwe
         s=set(code)
         if r not in s:
             code.append(r)
-    print ("Code: ",code)
+    #print ("Code: ",code)
     return code, set(code)
 
 def UserAttempt(): #Now we take input from user. Can't have GUI, so we make them enter the code as whole.
