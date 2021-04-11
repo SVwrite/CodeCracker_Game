@@ -1,2 +1,1 @@
-# CodeCracker_Game
-Scripts that create the game.
+This is an imitation of the game Mindhunter from scrath in python
